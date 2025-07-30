@@ -18,6 +18,7 @@
     {"name":"obj_jumpboost","order":2,"path":"objects/obj_jumpboost/obj_jumpboost.yy",},
     {"name":"obj_portal","order":1,"path":"objects/obj_portal/obj_portal.yy",},
     {"name":"obj_superspeedbolt","order":3,"path":"objects/obj_superspeedbolt/obj_superspeedbolt.yy",},
+    {"name":"level1","order":1,"path":"rooms/level1/level1.yy",},
     {"name":"spr_jumpboost","order":3,"path":"sprites/spr_jumpboost/spr_jumpboost.yy",},
     {"name":"spr_portal","order":2,"path":"sprites/spr_portal/spr_portal.yy",},
     {"name":"spr_superspeed","order":4,"path":"sprites/spr_superspeed/spr_superspeed.yy",},

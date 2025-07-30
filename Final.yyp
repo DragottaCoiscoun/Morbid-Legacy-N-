@@ -39,6 +39,7 @@
     {"id":{"name":"obj_portal","path":"objects/obj_portal/obj_portal.yy",},},
     {"id":{"name":"obj_superspeedbolt","path":"objects/obj_superspeedbolt/obj_superspeedbolt.yy",},},
     {"id":{"name":"obj_titlescreen","path":"objects/obj_titlescreen/obj_titlescreen.yy",},},
+    {"id":{"name":"level1","path":"rooms/level1/level1.yy",},},
     {"id":{"name":"title_room_beginning","path":"rooms/title_room_beginning/title_room_beginning.yy",},},
     {"id":{"name":"spr_jumpboost","path":"sprites/spr_jumpboost/spr_jumpboost.yy",},},
     {"id":{"name":"spr_portal","path":"sprites/spr_portal/spr_portal.yy",},},
@@ -51,6 +52,7 @@
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"title_room_beginning","path":"rooms/title_room_beginning/title_room_beginning.yy",},},
+    {"roomId":{"name":"level1","path":"rooms/level1/level1.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
