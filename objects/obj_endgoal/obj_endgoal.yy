@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_coin",
+  "%Name":"obj_endgoal",
   "eventList":[],
   "managed":true,
-  "name":"obj_coin",
+  "name":"obj_endgoal",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_coin",
-    "path":"sprites/spr_coin/spr_coin.yy",
+    "name":"spr_endgoal",
+    "path":"sprites/spr_endgoal/spr_endgoal.yy",
   },
   "spriteMaskId":null,
   "visible":true,
