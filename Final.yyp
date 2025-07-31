@@ -37,13 +37,13 @@
   "resources":[
     {"id":{"name":"obj_coin","path":"objects/obj_coin/obj_coin.yy",},},
     {"id":{"name":"obj_endgoal","path":"objects/obj_endgoal/obj_endgoal.yy",},},
-    {"id":{"name":"obj_floor_lvl1","path":"objects/obj_floor_lvl1/obj_floor_lvl1.yy",},},
     {"id":{"name":"obj_jumpboost","path":"objects/obj_jumpboost/obj_jumpboost.yy",},},
     {"id":{"name":"obj_portal","path":"objects/obj_portal/obj_portal.yy",},},
     {"id":{"name":"obj_superspeedbolt","path":"objects/obj_superspeedbolt/obj_superspeedbolt.yy",},},
     {"id":{"name":"obj_titlescreen","path":"objects/obj_titlescreen/obj_titlescreen.yy",},},
+    {"id":{"name":"obj_tree","path":"objects/obj_tree/obj_tree.yy",},},
     {"id":{"name":"level1","path":"rooms/level1/level1.yy",},},
-    {"id":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
+    {"id":{"name":"level2","path":"rooms/level2/level2.yy",},},
     {"id":{"name":"title_room_beginning","path":"rooms/title_room_beginning/title_room_beginning.yy",},},
     {"id":{"name":"spr_coin","path":"sprites/spr_coin/spr_coin.yy",},},
     {"id":{"name":"spr_endgoal","path":"sprites/spr_endgoal/spr_endgoal.yy",},},
@@ -60,7 +60,7 @@
   "RoomOrderNodes":[
     {"roomId":{"name":"title_room_beginning","path":"rooms/title_room_beginning/title_room_beginning.yy",},},
     {"roomId":{"name":"level1","path":"rooms/level1/level1.yy",},},
-    {"roomId":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
+    {"roomId":{"name":"level2","path":"rooms/level2/level2.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
