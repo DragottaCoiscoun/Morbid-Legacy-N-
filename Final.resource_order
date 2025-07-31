@@ -25,6 +25,7 @@
     {"name":"obj_tree","order":4,"path":"objects/obj_tree/obj_tree.yy",},
     {"name":"level1","order":1,"path":"rooms/level1/level1.yy",},
     {"name":"level2","order":2,"path":"rooms/level2/level2.yy",},
+    {"name":"level3","order":3,"path":"rooms/level3/level3.yy",},
     {"name":"spr_cloud_disappearing","order":8,"path":"sprites/spr_cloud_disappearing/spr_cloud_disappearing.yy",},
     {"name":"spr_coin","order":6,"path":"sprites/spr_coin/spr_coin.yy",},
     {"name":"spr_endgoal","order":7,"path":"sprites/spr_endgoal/spr_endgoal.yy",},
@@ -34,6 +35,7 @@
     {"name":"spr_portal","order":2,"path":"sprites/spr_portal/spr_portal.yy",},
     {"name":"spr_superspeed","order":4,"path":"sprites/spr_superspeed/spr_superspeed.yy",},
     {"name":"spr_titlescreen","order":1,"path":"sprites/spr_titlescreen/spr_titlescreen.yy",},
+    {"name":"Sprite12","order":10,"path":"sprites/Sprite12/Sprite12.yy",},
     {"name":"Sprite9","order":7,"path":"sprites/Sprite9/Sprite9.yy",},
   ],
 }
