@@ -31,6 +31,8 @@
     {"name":"level1","order":1,"path":"rooms/level1/level1.yy",},
     {"name":"level2","order":2,"path":"rooms/level2/level2.yy",},
     {"name":"level3","order":3,"path":"rooms/level3/level3.yy",},
+    {"name":"Chimera_Defeat","order":2,"path":"sounds/Chimera_Defeat/Chimera_Defeat.yy",},
+    {"name":"Powerup_equip","order":1,"path":"sounds/Powerup_equip/Powerup_equip.yy",},
     {"name":"spr_chimera_attack","order":13,"path":"sprites/spr_chimera_attack/spr_chimera_attack.yy",},
     {"name":"spr_chimera_idle","order":14,"path":"sprites/spr_chimera_idle/spr_chimera_idle.yy",},
     {"name":"spr_cloud_disappearing","order":8,"path":"sprites/spr_cloud_disappearing/spr_cloud_disappearing.yy",},
