@@ -16,6 +16,7 @@ move_x = move_x*walk_speed;
 /// @DnDAction : YoYo Games.Collisions.If_Object_At
 /// @DnDVersion : 1.1
 /// @DnDHash : 1782E57B
+/// @DnDComment : if we are on the ground or within the trees$(13_10)
 /// @DnDArgument : "x_relative" "1"
 /// @DnDArgument : "y" "2"
 /// @DnDArgument : "y_relative" "1"
