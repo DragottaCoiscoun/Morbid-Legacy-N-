@@ -1,8 +1,8 @@
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 0DFFE845
-/// @DnDArgument : "var" "spr_jumpboost"
-spr_jumpboost = 0;
+/// @DnDArgument : "var" "jumpboost"
+jumpboost = 0;
 
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1
