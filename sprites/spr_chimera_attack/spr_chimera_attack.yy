@@ -1,7 +1,7 @@
 {
   "$GMSprite":"",
   "%Name":"spr_chimera_attack",
-  "bboxMode":0,
+  "bboxMode":2,
   "bbox_bottom":1470,
   "bbox_left":122,
   "bbox_right":2744,
