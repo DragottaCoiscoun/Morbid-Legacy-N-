@@ -75,7 +75,7 @@
     {"id":{"name":"spr_niku_walk","path":"sprites/spr_niku_walk/spr_niku_walk.yy",},},
     {"id":{"name":"spr_portal","path":"sprites/spr_portal/spr_portal.yy",},},
     {"id":{"name":"spr_superspeed","path":"sprites/spr_superspeed/spr_superspeed.yy",},},
-    {"id":{"name":"spr_tilmap","path":"sprites/spr_tilmap/spr_tilmap.yy",},},
+    {"id":{"name":"spr_tilemap","path":"sprites/spr_tilemap/spr_tilemap.yy",},},
     {"id":{"name":"spr_titlescreen","path":"sprites/spr_titlescreen/spr_titlescreen.yy",},},
     {"id":{"name":"spr_vulture_small_idle","path":"sprites/spr_vulture_small_idle/spr_vulture_small_idle.yy",},},
     {"id":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},},

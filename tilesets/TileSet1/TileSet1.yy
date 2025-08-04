@@ -18,8 +18,8 @@
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",
   "spriteId":{
-    "name":"spr_tilmap",
-    "path":"sprites/spr_tilmap/spr_tilmap.yy",
+    "name":"spr_tilemap",
+    "path":"sprites/spr_tilemap/spr_tilemap.yy",
   },
   "spriteNoExport":false,
   "textureGroupId":{
