@@ -25,9 +25,9 @@ if(move_y > 0){	/// @DnDAction : YoYo Games.Instances.Set_Sprite
 	/// @DnDParent : 1103CE68
 	/// @DnDArgument : "imageind" "1"
 	/// @DnDArgument : "imageind_relative" "1"
-	/// @DnDArgument : "spriteind" "spr_niku_fall"
-	/// @DnDSaveInfo : "spriteind" "spr_niku_fall"
-	sprite_index = spr_niku_fall;
+	/// @DnDArgument : "spriteind" "spr_niku_idle"
+	/// @DnDSaveInfo : "spriteind" "spr_niku_idle"
+	sprite_index = spr_niku_idle;
 	image_index += 1;}
 
 /// @DnDAction : YoYo Games.Collisions.If_Object_At

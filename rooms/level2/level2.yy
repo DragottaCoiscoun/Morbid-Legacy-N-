@@ -88,6 +88,7 @@
     {"name":"inst_35C36217","path":"rooms/level2/level2.yy",},
     {"name":"inst_4E19D579","path":"rooms/level2/level2.yy",},
     {"name":"inst_E92A016","path":"rooms/level2/level2.yy",},
+    {"name":"inst_21A94045","path":"rooms/level2/level2.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -174,6 +175,7 @@
         {"$GMRInstance":"v2","%Name":"inst_35C36217","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_35C36217","objectId":{"name":"obj_enemy_vulture","path":"objects/obj_enemy_vulture/obj_enemy_vulture.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.06699062,"scaleY":0.079381995,"x":3808.0,"y":640.0,},
         {"$GMRInstance":"v2","%Name":"inst_4E19D579","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_4E19D579","objectId":{"name":"obj_enemy_vulture","path":"objects/obj_enemy_vulture/obj_enemy_vulture.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.06699062,"scaleY":0.079381995,"x":3712.0,"y":96.0,},
         {"$GMRInstance":"v2","%Name":"inst_E92A016","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_E92A016","objectId":{"name":"obj_enemy_vulture","path":"objects/obj_enemy_vulture/obj_enemy_vulture.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.06699062,"scaleY":0.079381995,"x":5056.0,"y":608.0,},
+        {"$GMRInstance":"v2","%Name":"inst_21A94045","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_21A94045","objectId":{"name":"obj_player_niku","path":"objects/obj_player_niku/obj_player_niku.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":384.0,"y":96.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRTileLayer":"","%Name":"deathzone","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"deathzone","properties":[],"resourceType":"GMRTileLayer","resourceVersion":"2.0","tiles":{"SerialiseHeight":48,"SerialiseWidth":375,"TileCompressedData":[
           1,10,-373,-2147483648,2,11,10,-373,-2147483648,2,11,10,-373,-2147483648,2,11,10,-373,-2147483648,2,11,

@@ -67,8 +67,6 @@
     {"id":{"name":"spr_jumpboost","path":"sprites/spr_jumpboost/spr_jumpboost.yy",},},
     {"id":{"name":"spr_Level2background","path":"sprites/spr_Level2background/spr_Level2background.yy",},},
     {"id":{"name":"spr_level3background","path":"sprites/spr_level3background/spr_level3background.yy",},},
-    {"id":{"name":"spr_niku_attack","path":"sprites/spr_niku_attack/spr_niku_attack.yy",},},
-    {"id":{"name":"spr_niku_fall","path":"sprites/spr_niku_fall/spr_niku_fall.yy",},},
     {"id":{"name":"spr_niku_idle","path":"sprites/spr_niku_idle/spr_niku_idle.yy",},},
     {"id":{"name":"spr_niku_jump","path":"sprites/spr_niku_jump/spr_niku_jump.yy",},},
     {"id":{"name":"spr_niku_walk","path":"sprites/spr_niku_walk/spr_niku_walk.yy",},},

@@ -72,10 +72,12 @@ else{	/// @DnDAction : YoYo Games.Common.If_Variable
 	if(move_y < 10){	/// @DnDAction : YoYo Games.Common.Variable
 		/// @DnDVersion : 1
 		/// @DnDHash : 18A0F900
+		/// @DnDComment : add gravity$(13_10)
 		/// @DnDParent : 78227469
 		/// @DnDArgument : "expr" "1"
+		/// @DnDArgument : "expr_relative" "1"
 		/// @DnDArgument : "var" "move_y"
-		move_y = 1;}}
+		move_y += 1;}}
 
 /// @DnDAction : YoYo Games.Collisions.If_Object_At
 /// @DnDVersion : 1.1
