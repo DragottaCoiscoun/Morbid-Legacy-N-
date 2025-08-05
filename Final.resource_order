@@ -50,6 +50,5 @@
     {"name":"spr_portal","order":2,"path":"sprites/spr_portal/spr_portal.yy",},
     {"name":"spr_titlescreen","order":1,"path":"sprites/spr_titlescreen/spr_titlescreen.yy",},
     {"name":"spr_vulture_small_idle","order":20,"path":"sprites/spr_vulture_small_idle/spr_vulture_small_idle.yy",},
-    {"name":"Sprite22","order":16,"path":"sprites/Sprite22/Sprite22.yy",},
   ],
 }
