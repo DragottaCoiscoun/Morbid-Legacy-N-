@@ -30,5 +30,5 @@ draw_set_font(open_sans);
 /// @DnDArgument : "y" "-15"
 /// @DnDArgument : "y_relative" "1"
 /// @DnDArgument : "caption" ""Emeralds:" "
-/// @DnDArgument : "var" "obj_playerz"
-draw_text(x + -30, y + -15, string("Emeralds:" ) + string(obj_playerz));
+/// @DnDArgument : "var" "obj_player_cat.coin"
+draw_text(x + -30, y + -15, string("Emeralds:" ) + string(obj_player_cat.coin));

@@ -1,9 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"obj_coin",
-  "eventList":[],
+  "%Name":"obj_enemy_acid",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_boss_chimera","path":"objects/obj_boss_chimera/obj_boss_chimera.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"obj_coin",
+  "name":"obj_enemy_acid",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_coin",
-    "path":"sprites/spr_coin/spr_coin.yy",
+    "name":"spr_enemy_acid",
+    "path":"sprites/spr_enemy_acid/spr_enemy_acid.yy",
   },
   "spriteMaskId":null,
   "visible":true,
