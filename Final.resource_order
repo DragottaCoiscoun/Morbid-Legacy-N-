@@ -15,6 +15,7 @@
     {"name":"Timelines","order":5,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"end_ost","order":18,"path":"objects/end_ost/end_ost.yy",},
     {"name":"obj_boss_chimera","order":15,"path":"objects/obj_boss_chimera/obj_boss_chimera.yy",},
     {"name":"obj_coin_counter","order":14,"path":"objects/obj_coin_counter/obj_coin_counter.yy",},
     {"name":"obj_coin","order":5,"path":"objects/obj_coin/obj_coin.yy",},
@@ -24,6 +25,7 @@
     {"name":"obj_enemy_acid","order":16,"path":"objects/obj_enemy_acid/obj_enemy_acid.yy",},
     {"name":"obj_enemy_vulture","order":12,"path":"objects/obj_enemy_vulture/obj_enemy_vulture.yy",},
     {"name":"obj_finalportal","order":10,"path":"objects/obj_finalportal/obj_finalportal.yy",},
+    {"name":"obj_game","order":17,"path":"objects/obj_game/obj_game.yy",},
     {"name":"obj_jumpboost","order":2,"path":"objects/obj_jumpboost/obj_jumpboost.yy",},
     {"name":"obj_player_cat","order":13,"path":"objects/obj_player_cat/obj_player_cat.yy",},
     {"name":"obj_portal","order":1,"path":"objects/obj_portal/obj_portal.yy",},
@@ -39,7 +41,6 @@
     {"name":"spr_cat_jump","order":25,"path":"sprites/spr_cat_jump/spr_cat_jump.yy",},
     {"name":"spr_cat_walk","order":26,"path":"sprites/spr_cat_walk/spr_cat_walk.yy",},
     {"name":"spr_chimera_attack","order":13,"path":"sprites/spr_chimera_attack/spr_chimera_attack.yy",},
-    {"name":"spr_chimera_idle","order":27,"path":"sprites/spr_chimera_idle/spr_chimera_idle.yy",},
     {"name":"spr_cloud_disappearing","order":8,"path":"sprites/spr_cloud_disappearing/spr_cloud_disappearing.yy",},
     {"name":"spr_coin","order":6,"path":"sprites/spr_coin/spr_coin.yy",},
     {"name":"spr_endgoal","order":7,"path":"sprites/spr_endgoal/spr_endgoal.yy",},

@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"obj_enemy_acid",
+  "%Name":"obj_game",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_player_cat","path":"objects/obj_player_cat/obj_player_cat.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":7,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_enemy_acid",
+  "name":"obj_game",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -29,10 +29,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_enemy_acid",
-    "path":"sprites/spr_enemy_acid/spr_enemy_acid.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

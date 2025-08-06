@@ -34,8 +34,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_chimera_idle",
-    "path":"sprites/spr_chimera_idle/spr_chimera_idle.yy",
+    "name":"spr_chimera_attack",
+    "path":"sprites/spr_chimera_attack/spr_chimera_attack.yy",
   },
   "spriteMaskId":null,
   "visible":true,

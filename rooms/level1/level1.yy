@@ -172,6 +172,7 @@
     {"name":"inst_1C0C234C","path":"rooms/level1/level1.yy",},
     {"name":"inst_568089FF","path":"rooms/level1/level1.yy",},
     {"name":"inst_5C8F643C","path":"rooms/level1/level1.yy",},
+    {"name":"inst_2D36436D","path":"rooms/level1/level1.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -448,6 +449,7 @@
         {"$GMRInstance":"v2","%Name":"inst_5B2187E5","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_5B2187E5","objectId":{"name":"obj_enemy_vulture","path":"objects/obj_enemy_vulture/obj_enemy_vulture.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.047320243,"scaleY":0.056346256,"x":4224.0,"y":160.0,},
         {"$GMRInstance":"v2","%Name":"inst_568089FF","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_568089FF","objectId":{"name":"obj_player_cat","path":"objects/obj_player_cat/obj_player_cat.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.11325302,"scaleY":0.13094084,"x":192.0,"y":128.0,},
         {"$GMRInstance":"v2","%Name":"inst_5C8F643C","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_5C8F643C","objectId":{"name":"obj_coin_counter","path":"objects/obj_coin_counter/obj_coin_counter.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":96.0,"y":32.0,},
+        {"$GMRInstance":"v2","%Name":"inst_2D36436D","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_2D36436D","objectId":{"name":"obj_game","path":"objects/obj_game/obj_game.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":276.0,"y":62.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4279308628,"depth":300,"effectEnabled":true,"effectType":"_filter_gradient","gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[
         {"name":"g_GradientColour1","type":1,"value":"#FF2C5118",},
